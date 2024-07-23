@@ -60,12 +60,30 @@
     {
       "group": "Essentials",
       "accordion": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+         {
+          "title": "Markdown",
+          "url": "essentials/markdown"
+        },
+        {
+          "title": "Code",
+          "url": "essentials/code"
+        },
+        {
+          "title": "Images",
+          "url": "essentials/images"
+        },
+        {
+          "title": "Settings",
+          "url": "essentials/settings"
+        },
+        {
+          "title": "Navigation",
+          "url": "essentials/navigation"
+        },
+        {
+          "title": "Reusable Snippets",
+          "url": "essentials/reusablesnippets"
+        }
       ]
     },
     {
