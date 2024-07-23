@@ -83,10 +83,10 @@
       ]
     },
     {
-      "title": "Guides",
-      "accordion": [
+      "group": "Guides",
+      "pages": [
         {
-          "title": "Beginner",
+          "group": "Beginner",
           "pages": [
             {
               "title": "First Steps",
@@ -99,7 +99,7 @@
           ]
         },
         {
-          "title": "Advanced",
+          "group": "Advanced",
           "pages": [
             {
               "title": "Optimization",
