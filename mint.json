@@ -81,37 +81,6 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    },
-    {
-      "group": "Guides",
-      "pages": [
-        {
-          "group": "Beginner",
-          "pages": [
-            {
-              "title": "First Steps",
-              "url": "/docs/guides/beginner/first-steps"
-            },
-            {
-              "title": "Basic Concepts",
-              "url": "/docs/guides/beginner/basic-concepts"
-            }
-          ]
-        },
-        {
-          "group": "Advanced",
-          "pages": [
-            {
-              "title": "Optimization",
-              "url": "/docs/guides/advanced/optimization"
-            },
-            {
-              "title": "Scaling",
-              "url": "/docs/guides/advanced/scaling"
-            }
-          ]
-        }
-      ]
     }
   ],
   "footerSocials": {
