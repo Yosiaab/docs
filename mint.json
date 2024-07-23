@@ -58,32 +58,14 @@
       ]
     },
     {
-      "title": "Essentials",
-      "accordion": [
-         {
-          "title": "Markdown",
-          "url": "essentials/markdown"
-        },
-        {
-          "title": "Code",
-          "url": "essentials/code"
-        },
-        {
-          "title": "Images",
-          "url": "essentials/images"
-        },
-        {
-          "title": "Settings",
-          "url": "essentials/settings"
-        },
-        {
-          "title": "Navigation",
-          "url": "essentials/navigation"
-        },
-        {
-          "title": "Reusable Snippets",
-          "url": "essentials/reusablesnippets"
-        }
+      "group": "Essentials",
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
       ]
     },
     {
@@ -98,6 +80,37 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "title": "Guides",
+      "accordion": [
+        {
+          "title": "Beginner",
+          "pages": [
+            {
+              "title": "First Steps",
+              "url": "/docs/guides/beginner/first-steps"
+            },
+            {
+              "title": "Basic Concepts",
+              "url": "/docs/guides/beginner/basic-concepts"
+            }
+          ]
+        },
+        {
+          "title": "Advanced",
+          "pages": [
+            {
+              "title": "Optimization",
+              "url": "/docs/guides/advanced/optimization"
+            },
+            {
+              "title": "Scaling",
+              "url": "/docs/guides/advanced/scaling"
+            }
+          ]
+        }
       ]
     }
   ],
